@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  text-emphasis-color: red;
+}
+
+h2 {
+  text-align: center;
+  line-height: 200px;
+  font-style: oblique;
+}
+
+ol {
+  text-align: center;
+  line-height: 200px;
+  text-emphasis-style: circle;
+}
